@@ -1,0 +1,5 @@
+AUC,Threshold,False Positive Rate,True Positive Rate
+0.5472895593957402,,,
+,inf,0.0,0.0
+,1.0,0.8963730569948186,0.990952175786299
+,0.0,1.0,1.0
